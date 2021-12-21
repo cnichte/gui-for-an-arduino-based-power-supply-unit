@@ -17,3 +17,6 @@ GUI for an Arduino based Power Supply Unit with touch Interface.
 * UTFT.h
 * URTouch.h
 * QList.h
+
+Ein bisschen was zur Erläuterung steht findet sich hier: 
+https://carsten-nichte.de/apps/docs/gui-for-an-arduino-based-power-supply-unit-with-touch-interface/
