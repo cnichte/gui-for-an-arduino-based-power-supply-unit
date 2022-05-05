@@ -29,13 +29,13 @@ Creative-Commons License (CC BY-NC-SA 4.0)
 
 Copyright (c) 2018 Carsten Nichte
 
-## Licence
+## License
 
 * Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)
 * https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode
 * https://creativecommons.org/licenses/by-nc-sa/4.0/?ref=chooser-v1
 
-### Licence in short
+### License in short
 
 * Do not sell the code.
 * Learn, code, create, and have fun.
